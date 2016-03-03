@@ -1,2 +1,2 @@
 # curator-leader-election
-Examples of two curator leader selection recipes
+Two examples to compare Leader Latch and Leader Election curator recipes to coordinate jobs on two network nodes.
